@@ -6,7 +6,7 @@
     <string name="settings_category_app_update">Оновлення додатка</string>  
     <string name="settings_category_forecast_update">Оновлення прогнозу</string>    
     <string name="widget_name_medium">Погода BZ 4x1</string>
-	<string name="widget_name_medium_ext">Погода BZ 4x1</string>        
+    <string name="widget_name_medium_ext">Погода BZ 4x1</string>        
     <string name="widget_name_large">Погода BZ 4x2</string>
     <string name="about_version">Версія:</string>
     <string name="about_author">Автор:</string>
@@ -16,7 +16,7 @@
     <string name="about_cloudy">Малохмарно</string>
     <string name="about_cloudy_night">Малохмарно (ніч)</string>
     <string name="about_overcast">Хмарно</string>
-    <string name="about_dust">Пісчана буря</string>
+    <string name="about_dust">Піщана буря</string>
     <string name="about_fog">Туман</string>
     <string name="about_hailstone">Град</string>
     <string name="about_light_rain">Невеликий дощ</string>
@@ -40,7 +40,7 @@
     <string name="weather_pressure">"Тиск: "</string>
     <string name="weather_visibility">"Видимість: "</string>
     <string name="settings_category_update">Налаштування оновлення</string>
-	<string name="settings_category_update_sum">Налаштування автооновлення та часу оновлення прогнозу</string>
+    <string name="settings_category_update_sum">Налаштування автооновлення та часу оновлення прогнозу</string>
     <string name="settings_category_animation">Налаштування анімації</string>
     <string name="settings_category_animation_sum">Налаштування відображення анімації та завантаження відео анімації для поточного прогнозу</string>
     <string name="settings_update_interval_title">Інтервал оновлення</string>
@@ -53,7 +53,7 @@
     <string name="settings_animation_download_summary">Завантажувати відео файли анімації з мережі Інтернет (якщо вони не знайдені у локальному сховищі)</string>	
     <string name="settings_about_title">Про програму</string>
     <string name="settings_about_summary">Інформація про програму</string>
-    <string name="no_provider">Похибка визначення розташування\nВиберіть розташування уручну</string>
+    <string name="no_provider">Помилка визначення розташування\nВиберіть розташування вручну</string>
     <string name="network_error">Немає з\'єднання з сервером</string>
     <string name="updating">Оновлення\u2026</string>
     <string name="just_now">Тільки що</string>
@@ -61,7 +61,7 @@
     <string name="conf_add_widget">Додати віджет</string>
     <string name="conf_light_skin">Світлий скін</string>
     <string name="conf_dark_skin">Темний скін</string>
-    <string name="conf_choose_skin">Выберіть скін</string>
+    <string name="conf_choose_skin">Виберіть скін</string>
     <string name="conf_name">Налаштування віджету</string>
     <string name="download_video">Завантажити відео</string>
     <string name="conf_no_background">Без фону (прозорий)</string>
